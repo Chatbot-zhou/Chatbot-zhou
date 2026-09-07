@@ -49,10 +49,15 @@
 
 ## 📊 GitHub 统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chatbot-zhou&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatbot-zhou&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
-</p>
+![Followers](https://img.shields.io/github/followers/Chatbot-zhou?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/Chatbot-zhou?affiliations=OWNER&label=Stars&style=flat)
+
+**代码语言分布**（按字节数统计）
+
+![Rust](https://img.shields.io/badge/Rust-56.2%25-dea584?logo=rust&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-10.2%25-3572A5?logo=python&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-8.6%25-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-7.4%25-F1E05A?logo=javascript&logoColor=black&style=flat)
 
 ## 📮 联系我
 
