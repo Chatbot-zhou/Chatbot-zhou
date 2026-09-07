@@ -9,17 +9,6 @@
   🔍 正在做 <a href="https://github.com/Chatbot-zhou/FanFan">翻翻 FanFan</a> —— 完全本地化的 AI 信息管理助手（<a href="https://merit-wfgr.upma.site/">官网</a>）
 </p>
 
----
-
-## 🧭 关于我
-
-- 🎓 计算机科学与技术本科，1 年 AI 应用开发经验
-- 🤖 做过 toC 的 **SCI 论文智能辅助投稿 Agent 系统** 和 toB 的 **企业法务 RAG 系统**，熟悉从需求分析、方案设计到功能落地的完整流程
-- 🔗 熟悉 **LangChain / LangGraph / Tool Calling / MCP**，能完成任务拆解、状态管理、多工具调用与流程编排
-- 🔎 有 RAG 全链路优化经验：文档解析 → 知识库构建 → Query 改写 → **BM25 + 向量混合检索 → Rerank 精排** → Prompt 优化
-- 🧠 理解 Transformer / MoE / LoRA 原理，有 BERT 意图识别模型训练经验，熟悉 Qwen、DeepSeek、Llama 的选型与应用
-- 🛠 工程落地：Python · FastAPI · Milvus · MySQL · Redis · Docker · Streamlit，也熟悉 Dify / Coze / RAGFlow 平台
-
 ## 🚀 我的项目
 
 | 项目 | 简介 | 技术栈 |
