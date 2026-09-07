@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    📮 正在找 <b>AI 应用开发工程师 · FDE前沿部署工程师 · 其他相关岗位</b> 相关工作（可到岗，欢迎联系）<br>
+    📮 正在找 <b>AI 应用开发工程师 · FDE 前沿部署工程师 · 其他相关岗位</b> 相关工作（可到岗，欢迎联系）<br>
   🔍 正在做 <a href="https://github.com/Chatbot-zhou/FanFan">翻翻 FanFan</a> —— 完全本地化的 AI 信息管理助手（<a href="https://merit-wfgr.upma.site/">官网</a>）
 </p>
 
@@ -64,6 +64,4 @@
 - 📧 邮箱：**chatbotzhou@163.com**
 - 🐙 GitHub：[Chatbot-zhou](https://github.com/Chatbot-zhou/)
 
-<p align="center">
-  <i>让每一份被遗忘的信息重新产生价值。</i>
 </p>
