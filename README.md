@@ -12,8 +12,8 @@
 
 | 项目 | 简介 | 技术栈 |
 | --- | --- | --- |
-| [fruits-ecommerce](https://github.com/Chatbot-zhou/fruits-ecommerce)) | 🛒 果蔬电商智能客服系统：H5 在线客服 + 坐席工作台，AI 流式应答、自动转人工，订单查询与售后工单全闭环 | Vue · FastAPI · Dify/RAGFlow · MySQL |
-| [翻翻 FanFan](https://github.com/Chatbot-zhou/FanFan) | 🗂️ 完全本地化的 AI 信息管理助手：理解、整理、找回电脑中散落的资料 | Rust · 本地化 · AI |
+| [果蔬电商客服 (fruits-ecommerce)](https://github.com/Chatbot-zhou/fruits-ecommerce) | 🛒 果蔬电商智能客服系统：H5 在线客服 + 坐席工作台，AI 流式应答、自动转人工，订单查询与售后工单全闭环 | Vue · FastAPI · Dify/RAGFlow · MySQL |
+| [翻翻 (FanFan)](https://github.com/Chatbot-zhou/FanFan) | 🗂️ 完全本地化的 AI 信息管理助手：理解、整理、找回电脑中散落的资料 | Rust · 本地化 · AI |
 | [Job Seeker](https://github.com/Chatbot-zhou/job-seeker) | 💼 双平台求职辅助工具，用 AI 自动匹配岗位 | JavaScript · AI |
 | [renhua.py](https://github.com/Chatbot-zhou/renhua.py) | 🐍 把你的中文，翻译成 Python 话 | TypeScript |
 
