@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+    🌐 <b>个人主页 / Homepage</b>：<a href="https://fractal-xjhm.upma.site/">fractal-xjhm.upma.site</a>
+</p>
+
+<p align="center">
     📮 正在找 <b>AI 应用开发工程师 · FDE 前沿部署工程师 · 其他相关岗位</b> 相关工作（可到岗，欢迎联系）
 </p>
 
@@ -51,7 +55,7 @@
 
 ## 📮 联系我
 
+- 🏠 个人主页：[fractal-xjhm.upma.site](https://fractal-xjhm.upma.site/)
 - 📧 邮箱：**chatbotzhou@163.com**
 - 🇨🇳 Gitee：[chatbotzhou](https://gitee.com/chatbotzhou)
 - 🐙 GitHub（同名镜像）：[Chatbot-zhou](https://github.com/Chatbot-zhou/)
-</p>
