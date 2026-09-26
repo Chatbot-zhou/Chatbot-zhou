@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    🌐 <b>个人主页 / Homepage</b>：<a href="https://fractal-xjhm.upma.site/">fractal-xjhm.upma.site</a>
+    🌐 <b>个人主页 / Homepage</b>：<a href="https://fractal-xjhm.upma.site/">fractal-xjhm.upma.site</a>（国内快） · <a href="https://chatbot-zhou.github.io/">chatbot-zhou.github.io</a>（备用）
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 ## 📮 联系我
 
-- 🏠 个人主页：[fractal-xjhm.upma.site](https://fractal-xjhm.upma.site/)
+- 🏠 个人主页：[fractal-xjhm.upma.site](https://fractal-xjhm.upma.site/)（国内快） · [chatbot-zhou.github.io](https://chatbot-zhou.github.io/)（备用）
 - 📧 邮箱：**chatbotzhou@163.com**
 - 🇨🇳 Gitee：[chatbotzhou](https://gitee.com/chatbotzhou)
 - 🐙 GitHub（同名镜像）：[Chatbot-zhou](https://github.com/Chatbot-zhou/)
